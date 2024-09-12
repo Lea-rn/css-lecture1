@@ -1,0 +1,26 @@
+h11 {    /*  to call the element */
+    color: purple;
+}
+
+.salma {   /* to call the element by his own class*/
+color: red;
+}
+
+.salma {
+    color: chartreuse;
+}
+
+
+#abc {  /* to call the element by his own id*/
+    color: rgb(2, 121, 28);
+     
+}
+
+.presentation{
+    border:solid 3px;
+    background-color: blueviolet;
+
+}
+
+
+
